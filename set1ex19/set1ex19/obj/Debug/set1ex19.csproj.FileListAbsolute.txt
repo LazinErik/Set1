@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set1ex19\set1ex19\obj\Debug\set1ex19.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set1ex19\set1ex19\obj\Debug\set1ex19.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set1ex19\set1ex19\bin\Debug\set1ex19.exe.config
+D:\Facultate\Programare\set1ex19\set1ex19\bin\Debug\set1ex19.exe
+D:\Facultate\Programare\set1ex19\set1ex19\bin\Debug\set1ex19.pdb
+D:\Facultate\Programare\set1ex19\set1ex19\obj\Debug\set1ex19.exe
+D:\Facultate\Programare\set1ex19\set1ex19\obj\Debug\set1ex19.pdb

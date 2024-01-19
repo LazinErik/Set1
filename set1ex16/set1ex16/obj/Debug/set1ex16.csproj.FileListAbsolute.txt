@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set1ex16\set1ex16\bin\Debug\set1ex16.exe.config
+D:\Facultate\Programare\set1ex16\set1ex16\bin\Debug\set1ex16.exe
+D:\Facultate\Programare\set1ex16\set1ex16\bin\Debug\set1ex16.pdb
+D:\Facultate\Programare\set1ex16\set1ex16\obj\Debug\set1ex16.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set1ex16\set1ex16\obj\Debug\set1ex16.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set1ex16\set1ex16\obj\Debug\set1ex16.exe
+D:\Facultate\Programare\set1ex16\set1ex16\obj\Debug\set1ex16.pdb
