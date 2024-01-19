@@ -1,0 +1,7 @@
+D:\Facultate\Programare\oglindit\oglindit\bin\Debug\oglindit.exe.config
+D:\Facultate\Programare\oglindit\oglindit\bin\Debug\oglindit.exe
+D:\Facultate\Programare\oglindit\oglindit\bin\Debug\oglindit.pdb
+D:\Facultate\Programare\oglindit\oglindit\obj\Debug\oglindit.csproj.AssemblyReference.cache
+D:\Facultate\Programare\oglindit\oglindit\obj\Debug\oglindit.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\oglindit\oglindit\obj\Debug\oglindit.exe
+D:\Facultate\Programare\oglindit\oglindit\obj\Debug\oglindit.pdb

@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set1 ex9\set1 ex9\obj\Debug\set1 ex9.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set1 ex9\set1 ex9\obj\Debug\set1 ex9.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set1 ex9\set1 ex9\bin\Debug\set1 ex9.exe.config
+D:\Facultate\Programare\set1 ex9\set1 ex9\bin\Debug\set1 ex9.exe
+D:\Facultate\Programare\set1 ex9\set1 ex9\bin\Debug\set1 ex9.pdb
+D:\Facultate\Programare\set1 ex9\set1 ex9\obj\Debug\set1 ex9.exe
+D:\Facultate\Programare\set1 ex9\set1 ex9\obj\Debug\set1 ex9.pdb

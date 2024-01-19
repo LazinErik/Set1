@@ -1,0 +1,7 @@
+D:\Facultate\Programare\cifminmax\cifminmax\obj\Debug\cifminmax.csproj.AssemblyReference.cache
+D:\Facultate\Programare\cifminmax\cifminmax\obj\Debug\cifminmax.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\cifminmax\cifminmax\bin\Debug\cifminmax.exe.config
+D:\Facultate\Programare\cifminmax\cifminmax\bin\Debug\cifminmax.exe
+D:\Facultate\Programare\cifminmax\cifminmax\bin\Debug\cifminmax.pdb
+D:\Facultate\Programare\cifminmax\cifminmax\obj\Debug\cifminmax.exe
+D:\Facultate\Programare\cifminmax\cifminmax\obj\Debug\cifminmax.pdb

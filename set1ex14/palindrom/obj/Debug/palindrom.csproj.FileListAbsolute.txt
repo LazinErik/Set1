@@ -1,0 +1,7 @@
+D:\Facultate\Programare\palindrom\palindrom\bin\Debug\palindrom.exe.config
+D:\Facultate\Programare\palindrom\palindrom\bin\Debug\palindrom.exe
+D:\Facultate\Programare\palindrom\palindrom\bin\Debug\palindrom.pdb
+D:\Facultate\Programare\palindrom\palindrom\obj\Debug\palindrom.csproj.AssemblyReference.cache
+D:\Facultate\Programare\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\palindrom\palindrom\obj\Debug\palindrom.exe
+D:\Facultate\Programare\palindrom\palindrom\obj\Debug\palindrom.pdb

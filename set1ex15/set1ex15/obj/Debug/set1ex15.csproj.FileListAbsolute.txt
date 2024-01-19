@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set1ex15\set1ex15\bin\Debug\set1ex15.exe.config
+D:\Facultate\Programare\set1ex15\set1ex15\bin\Debug\set1ex15.exe
+D:\Facultate\Programare\set1ex15\set1ex15\bin\Debug\set1ex15.pdb
+D:\Facultate\Programare\set1ex15\set1ex15\obj\Debug\set1ex15.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set1ex15\set1ex15\obj\Debug\set1ex15.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set1ex15\set1ex15\obj\Debug\set1ex15.exe
+D:\Facultate\Programare\set1ex15\set1ex15\obj\Debug\set1ex15.pdb
