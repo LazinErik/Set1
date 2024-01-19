@@ -1,0 +1,7 @@
+D:\Facultate\Programare\ECgrad2\ECgrad2\bin\Debug\ECgrad2.exe.config
+D:\Facultate\Programare\ECgrad2\ECgrad2\bin\Debug\ECgrad2.exe
+D:\Facultate\Programare\ECgrad2\ECgrad2\bin\Debug\ECgrad2.pdb
+D:\Facultate\Programare\ECgrad2\ECgrad2\obj\Debug\ECgrad2.csproj.AssemblyReference.cache
+D:\Facultate\Programare\ECgrad2\ECgrad2\obj\Debug\ECgrad2.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\ECgrad2\ECgrad2\obj\Debug\ECgrad2.exe
+D:\Facultate\Programare\ECgrad2\ECgrad2\obj\Debug\ECgrad2.pdb

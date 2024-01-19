@@ -1,0 +1,7 @@
+D:\Facultate\Programare\ex3\ex3\bin\Debug\ex3.exe.config
+D:\Facultate\Programare\ex3\ex3\bin\Debug\ex3.exe
+D:\Facultate\Programare\ex3\ex3\bin\Debug\ex3.pdb
+D:\Facultate\Programare\ex3\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+D:\Facultate\Programare\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\ex3\ex3\obj\Debug\ex3.exe
+D:\Facultate\Programare\ex3\ex3\obj\Debug\ex3.pdb

@@ -1,0 +1,7 @@
+D:\Facultate\Programare\set1 ex6\set1 ex6\bin\Debug\set1 ex6.exe.config
+D:\Facultate\Programare\set1 ex6\set1 ex6\bin\Debug\set1 ex6.exe
+D:\Facultate\Programare\set1 ex6\set1 ex6\bin\Debug\set1 ex6.pdb
+D:\Facultate\Programare\set1 ex6\set1 ex6\obj\Debug\set1 ex6.csproj.AssemblyReference.cache
+D:\Facultate\Programare\set1 ex6\set1 ex6\obj\Debug\set1 ex6.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\set1 ex6\set1 ex6\obj\Debug\set1 ex6.exe
+D:\Facultate\Programare\set1 ex6\set1 ex6\obj\Debug\set1 ex6.pdb

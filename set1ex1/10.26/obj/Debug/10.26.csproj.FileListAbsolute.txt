@@ -1,0 +1,7 @@
+D:\Facultate\Programare\10.26\10.26\obj\Debug\10.26.csproj.AssemblyReference.cache
+D:\Facultate\Programare\10.26\10.26\obj\Debug\10.26.csproj.CoreCompileInputs.cache
+D:\Facultate\Programare\10.26\10.26\bin\Debug\10.26.exe.config
+D:\Facultate\Programare\10.26\10.26\bin\Debug\10.26.exe
+D:\Facultate\Programare\10.26\10.26\bin\Debug\10.26.pdb
+D:\Facultate\Programare\10.26\10.26\obj\Debug\10.26.exe
+D:\Facultate\Programare\10.26\10.26\obj\Debug\10.26.pdb
